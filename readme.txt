@@ -1,0 +1,2 @@
+we generate the data set or take sample in the student.py in generate_data_set by haarcascade(for facedetection) frontal face algorithm
+we train the data set and recognize the image by LBPH(for face recognition) face recognizer algorithm in the train.py and the face_recognition.py
