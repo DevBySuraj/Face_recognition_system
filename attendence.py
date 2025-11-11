@@ -227,4 +227,4 @@ class Attendence:
 if __name__ == "__main__":
     root = Tk()  #create the main tinker window 
     obj = Attendence(root)
-    root.mainloop() #Starts the tkinter event loop, which keeps the window open and responsive until you close it.
+    root.mainloop() #Starts the tkinter event loop, which keeps the window open and responsive until you close it.  

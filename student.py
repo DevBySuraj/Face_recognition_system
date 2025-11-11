@@ -3,7 +3,7 @@ from tkinter import ttk   #GUI library
 from PIL import Image,ImageTk #image manipulation library
 from tkinter import messagebox
 import mysql.connector
-import cv2
+import cv2  
 
 class Student:
     def __init__(self,root):
